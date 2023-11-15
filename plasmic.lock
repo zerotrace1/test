@@ -1,0 +1,95 @@
+{
+  "projects": [
+    {
+      "projectId": "8PtdGodUbexNYgkuyBUcWu",
+      "version": "3.20.0",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "assetId": "8PtdGodUbexNYgkuyBUcWu",
+          "type": "projectCss",
+          "checksum": "078b5be9aa4a8ea2a39b36c771c25aaa"
+        },
+        {
+          "assetId": "8PtdGodUbexNYgkuyBUcWu",
+          "checksum": "c48776bba1b3886e93349ddfa619cee9",
+          "type": "globalContexts"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "5dGW8Awro3qq8Hh5MveXLP",
+      "version": "1.21.0",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "assetId": "5dGW8Awro3qq8Hh5MveXLP",
+          "type": "projectCss",
+          "checksum": "208e7308eefeffa5d03c833e22ab6f90"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "ohDidvG9XsCeFumugENU3J",
+      "version": "6.14.0",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "assetId": "ohDidvG9XsCeFumugENU3J",
+          "type": "projectCss",
+          "checksum": "fd83b730367fdbde2c69bc6cf31c2a3c"
+        },
+        {
+          "assetId": "ohDidvG9XsCeFumugENU3J",
+          "checksum": "9edd6de3249e8ce87ee98f963fba1736",
+          "type": "globalContexts"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "PPNvSLRu13XHjt5E7GEgf",
+      "version": "latest",
+      "dependencies": {
+        "ohDidvG9XsCeFumugENU3J": "6.14.0",
+        "5dGW8Awro3qq8Hh5MveXLP": "1.21.0",
+        "8PtdGodUbexNYgkuyBUcWu": "3.20.0"
+      },
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "jHUaBsbEDfIf",
+          "checksum": "60324733faebe8a0688e00967b30af5f"
+        },
+        {
+          "assetId": "PPNvSLRu13XHjt5E7GEgf",
+          "type": "projectCss",
+          "checksum": "2fc9a182450b911ca9101d12360bafcd"
+        },
+        {
+          "assetId": "PPNvSLRu13XHjt5E7GEgf",
+          "checksum": "4af5919992e343b91af3f21b75e41de9",
+          "type": "globalContexts"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "2IkYRZIFlScN",
+          "checksum": "02bf8a1f1d957fcbfb9c663f18a4ed96"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "2IkYRZIFlScN",
+          "checksum": "02bf8a1f1d957fcbfb9c663f18a4ed96"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.322"
+}
